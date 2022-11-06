@@ -1,1 +1,2 @@
-self pushin
+self pushing 
+some updates are did
